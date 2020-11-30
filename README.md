@@ -1,2 +1,2 @@
-# Class29
-Angry birds game with Sling Shot and ColorZilla extension.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
